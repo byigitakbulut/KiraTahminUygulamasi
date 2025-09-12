@@ -20,6 +20,13 @@ Bu proje, bir kira veri seti üzerinde veri tanıma, eksik ve aykırı değer an
 - Makine öğrenmesi modelleri ile kira tahmini yapmak
 - Model performansını ölçmek ve optimizasyon yapmak
 
+## License Information
+
+- **Code**: Licensed under the MIT License.  
+- **Dataset**: The dataset included in this repository was obtained from another public GitHub repository where no license information was provided.  
+  Therefore, the dataset is considered **All Rights Reserved** and is used here **only for educational and research purposes**.  
+  Redistribution or commercial use of the dataset is not permitted.
+
 ## Kurulum ve Kullanım
 1. Repo'yu klonlayın:
 ```bash
